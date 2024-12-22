@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-💻 I’m currently working on a website project.
-📘 I’m currently learning with help from Google Developer Groups on Campus PUP.
-💬 Don't be shy to chat!
+- 💻 I’m currently working on a website project.
+- 📘 I’m currently learning with help from Google Developer Groups on Campus PUP.
+- 💬 Don't be shy to chat!
 <!--
 **kw-asas/kw-asas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
